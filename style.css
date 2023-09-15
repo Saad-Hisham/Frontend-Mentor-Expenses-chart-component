@@ -81,7 +81,7 @@ hr {
     background: none;
     border-radius: 0rem;
     color: black;
-    align-items: center;
+    align-items: end;
     min-height: 76px;
     margin-bottom: 2rem;
 }
