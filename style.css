@@ -65,6 +65,8 @@ body {
     border-radius: 0.5rem;
     padding: .5px;
     margin-top: 24px;
+    min-height: 515px;
+
 }
 
 hr {
@@ -83,7 +85,7 @@ hr {
     color: black;
     align-items: end;
     min-height: 76px;
-    margin-bottom: 2rem;
+        margin-top: 2rem;
 }
 
 h1 {
