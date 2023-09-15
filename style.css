@@ -127,6 +127,8 @@ span.label {
     top: -41px;
     left: -8px;
     opacity: 0;
+     z-index: 1;
+
 }
 .bars-container>div:hover span{
     opacity: 1;
