@@ -104,9 +104,10 @@ span.label {
     padding: 0;
     line-height: 35px;
 }
-.head-contanier.second .balance-container:nth-of-type(2) p{
+.head-contanier.second .balance-container:nth-of-type(2) p {
     line-height: 18px;
-
+    display: flex;
+    justify-content: end;
 }
 .days-container>div {
     text-align: center;
